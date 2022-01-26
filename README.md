@@ -10,7 +10,7 @@
   <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rodrigo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
   <img align="center" alt="Rodrigo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" height="150" alt="Rodrigo-pic" style="border-radius: 50%; filter: drop-shadow(2px 4px 6px black);" src="./avatar.gif">
+  <img align="right" height="150" alt="Rodrigo-pic" style="border-radius: 50px;" src="./avatar.gif">
 </div>
 
   ##
